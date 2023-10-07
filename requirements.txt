@@ -1,0 +1,16 @@
+pytest
+clean-text
+nltk
+corus
+datasets
+pandas
+bs4
+requests
+pyspellchecker
+textblob
+spacy
+gensim
+razdel
+natasha
+pymystep3
+demoji
