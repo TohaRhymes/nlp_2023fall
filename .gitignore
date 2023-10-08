@@ -1,2 +1,9 @@
 /src/utils.egg-info/
 /venv
+/notebooks/itmo_dl_nlp_*.ipynb
+/cfg.py
+/data/*.zip
+/data/*.csv
+**/.ipynb_checkpoints/
+**/__pycache__/
+**/.idea

@@ -12,5 +12,7 @@ spacy
 gensim
 razdel
 natasha
-pymystep3
 demoji
+kaggle
+sklearn
+setuptools~=68.2.0
