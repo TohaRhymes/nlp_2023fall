@@ -15,4 +15,4 @@ natasha
 demoji
 kaggle
 sklearn
-setuptools~=68.2.0
+setuptools
