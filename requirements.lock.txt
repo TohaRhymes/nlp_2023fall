@@ -36,6 +36,7 @@ dill==0.3.7
 docopt==0.6.2
 docopt-ng==0.9.0
 emoji==1.7.0
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.0/en_core_web_sm-3.7.0-py3-none-any.whl#sha256=6215d71a3212690e9aec49408a27e3fe6ad7cd6c715476e93d70dc784041e93e
 exceptiongroup==1.1.3
 executing==2.0.0
 fastjsonschema==2.18.1
@@ -109,6 +110,7 @@ psutil==5.9.5
 ptyprocess==0.7.0
 pure-eval==0.2.2
 pyarrow==13.0.0
+pybind11==2.11.1
 pycparser==2.21
 pydantic==2.4.2
 pydantic_core==2.10.1
@@ -166,7 +168,7 @@ typing_extensions==4.8.0
 tzdata==2023.3
 uri-template==1.3.0
 urllib3==2.0.6
--e git+https://github.com/TohaRhymes/nlp_2023fall.git@47e4801bae41cf020d42121646e1826d064aac5d#egg=utils
+-e git+https://github.com/TohaRhymes/nlp_2023fall.git@c0d0e4dce55e5afcb7983a1353eafe6c7498fa5d#egg=utils
 wasabi==1.1.2
 wcwidth==0.2.8
 weasel==0.3.2
