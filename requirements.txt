@@ -16,3 +16,6 @@ demoji
 kaggle
 sklearn
 setuptools
+
+pytorch
+transformers
