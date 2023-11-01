@@ -10,7 +10,7 @@ HW for NLP course at AI talent hub
 
 [HW 4](notebooks/hw_4.ipynb) - cnn + rnn;
 
-[HW 5](notebooks/hw_5.ipynb) - Not yet done<...>;
+[HW 5](notebooks/hw_5.ipynb) - topic modelling;
 
 [HW 6](notebooks/hw_6.ipynb) - Not yet done<...>;
 
