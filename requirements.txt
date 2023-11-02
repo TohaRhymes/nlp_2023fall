@@ -21,3 +21,5 @@ pytorch
 transformers
 matplotlib
 pyLDAvis
+bigartm
+protobuf==3.20.*
