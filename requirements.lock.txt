@@ -200,3 +200,7 @@ widgetsnbextension==4.0.9
 xxhash==3.4.1
 yargy==0.16.0
 yarl==1.9.2
+datasets==2.14.6
+transformers==4.35.0
+accelerate==0.24.1
+evaluate==0.4.1
