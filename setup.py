@@ -4,7 +4,7 @@ from setuptools import find_packages, setup
 
 setup(
     name='utils',
-    version='0.1',
+    version='0.4',
     packages=find_packages(where='src'),
     package_dir={'': 'src'},
     py_modules=[splitext(basename(path))[0] for path in glob('src/*.py')],
