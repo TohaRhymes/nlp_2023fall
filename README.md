@@ -14,6 +14,6 @@ HW for NLP course at AI talent hub
 
 [HW 6](notebooks/hw_6.ipynb) - basics of hugging face for classification + fine-tuning;
 
-[HW 7](notebooks/hw_7.ipynb) - Not yet done<...>;
+[HW 7](notebooks/hw_7.ipynb) - question answering with BERT from huggingface;
 
 [HW 8](notebooks/hw_8.ipynb) - Not yet done<...>;
